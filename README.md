@@ -1,2 +1,0 @@
-# SpringDemoProject
-Demo Spring Project
